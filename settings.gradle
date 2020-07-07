@@ -1,0 +1,2 @@
+rootProject.name='RequestCode and ResualtCode'
+include ':app'
